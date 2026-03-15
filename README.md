@@ -1,2 +1,6 @@
 # QuantumKAN
-QML-HEP GSoC 2026 tasks. Quantum Kolmogorov-Arnold Networks.
+Quantum Kolmogorov-Arnold Networks.
+Task I
+Task II
+Task III
+Task IX
